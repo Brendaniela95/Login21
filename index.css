@@ -1,0 +1,17 @@
+* {
+    box-sizing: border-box;
+    background-color: -moz-linear-gradient(black,grey);
+}
+
+.caja-registro {
+border-radius: 30px 30px 30px 30px;
+background: #93e5eb;
+padding: 20px;
+width: 200px;
+height: 150px;
+}
+
+h1 {
+    color: white;
+    font-family: 'Tourney', cursive;
+}
